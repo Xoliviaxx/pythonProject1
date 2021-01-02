@@ -1,5 +1,8 @@
-print("Liczymy iloczyny.")
-Numer1 = int(input("Podaj pierwszą liczbę "))
-Numer2 = int(input('Podaj drugą liczbę '))
-score = Numer1*Numer2
-print(f"Iloczyn liczb to: {score}")
+name = input('Podaj imię: ')
+
+print(f'Podałeś imię: {name} ')
+
+if name[-1]=='a':
+    print('To imię kobiece')
+else:
+    print('To imie męskie')
