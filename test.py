@@ -1,1 +1,1 @@
-print("Co mam napisać? XD")
+print("Co mam napisać? ololo XD")
