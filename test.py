@@ -1,0 +1,1 @@
+print("Co mam napisać? XD")
